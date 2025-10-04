@@ -3,9 +3,9 @@
 ## Ingredients
 
 - Sand
-_ Leaveners
-_ Butter
+- Leaveners
+- Butter
 - Rocks
-_ Egg
+- Egg
 
-from allrecipes.com
+from: (allrecipes.com)
